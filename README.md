@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Davide </h2>
 <p><em>
-  Software Enginner student at Ecole 42 Paris
+  Software Engineering Student at Ecole 42 Paris
 </p>
 
   <img align='right' src="./3.gif" width="320">
