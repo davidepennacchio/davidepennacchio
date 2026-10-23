@@ -1,11 +1,11 @@
-<h2> Hi there, I'm Davide <img src="./Assets/7.gif" width="50"></h2>
+<h2> Hi there, I'm Davide </h2>
 <p><em>
   Software Enginner student at Ecole 42 Paris
 </p>
 
   <img align='right' src="./3.gif" width="320">
 
-### A little more about me...<img src="./Assets/1.gif" width="60">
+### A little more about me ...
 
 ```C
 struct davide = {
