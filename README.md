@@ -2,7 +2,7 @@
 
 Software Engineering Student at Ecole 42 Paris
 
-![Demo](./3.gif)
+<img align="right" src="3.gif" width="250">
 
 ### A little more about me ...
 
