@@ -1,17 +1,19 @@
-<h2> Hi there, I'm Davide </h2>
-<p><em>
-  Software Engineering Student at Ecole 42 Paris
-</p>
+# Hi there, I'm Davide
 
-  <img align='right' src="./3.gif" width="320">
+Software Engineering Student at Ecole 42 Paris
+
+![Demo](./3.gif)
 
 ### A little more about me ...
 
-```C
-struct davide = {
-  char *pronouns = "he/him",
-  char **code = ["Python", "C"],
-  char **tools: ["Git", "Github", "Ssh"],
-  char **system = ["Linux", "MacOS"]"
-}
+```python
+class Davide:
+  pronouns = "he/him"
+  code = ["Python", "C"]
+  tools = ["Git", "Github", "Ssh"]
+  system = ["Linux", "MacOS"]
 ```
+
+## Some Projects
+
+* where-the-hell: https://github.com/davidepennacchio/where-the-hell
