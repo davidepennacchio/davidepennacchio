@@ -3,7 +3,7 @@
   Software Enginner student at Ecole 42 Paris
 </p>
 
-  <img align='right' src="./Assets/3.gif" width="320">
+  <img align='right' src="./3.gif" width="320">
 
 ### A little more about me...<img src="./Assets/1.gif" width="60">
 
