@@ -1,19 +1,22 @@
 # Hi there, I'm Davide
 
 Software Engineering Student at Ecole 42 Paris
+I love music and systems engineering.
 
 <img align="right" src="3.gif" width="250">
 
 ### A little more about me ...
 
-```python
-class Davide:
-  pronouns = "he/him"
-  code = ["Python", "C"]
-  tools = ["Git", "Github", "Ssh"]
-  system = ["Linux", "MacOS"]
+```C
+typedef struct
+{
+  char *pronouns = "he/him"
+  char **code = ["Python", "C"]
+  char **tools = ["Git", "Github", "Ssh"]
+  char **system = ["Linux", "MacOS"]
+} Davide
 ```
 
 ## Some Projects
 
-* what-the-sys(https://github.com/davidepennacchio/what-the-sys)
+* 
