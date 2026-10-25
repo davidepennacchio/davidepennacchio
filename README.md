@@ -20,4 +20,4 @@ typedef struct
 
 ## Some Projects
 
-* mini-stdlib -> https://github.com/davidepennacchio/mini-stdlib/
+* reallib -> https://github.com/davidepennacchio/reallib/
