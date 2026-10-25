@@ -20,4 +20,4 @@ typedef struct
 
 ## Some Projects
 
-* 
+* mini-shell -> https://github.com/davidepennacchio/mini-shell/
