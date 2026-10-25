@@ -12,7 +12,7 @@ I love music and systems engineering.
 typedef struct
 {
   char *pronouns = "he/him";
-  char **code = ["Python", "C"];
+  char **code = ["Python", "C", "Bash"];
   char **tools = ["Git", "Github", "Ssh"];
   char **system = ["Linux", "MacOS"];
 } Davide;
