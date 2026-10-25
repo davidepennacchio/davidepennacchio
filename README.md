@@ -21,4 +21,3 @@ typedef struct
 ## Some Projects
 
 * mini-stdlib -> https://github.com/davidepennacchio/mini-stdlib/
-* mini-shell -> https://github.com/davidepennacchio/mini-shell/
