@@ -20,4 +20,4 @@ typedef struct
 
 ## Some Projects
 
-*  -> https://github.com/davidepennacchio//
+* c-shell -> https://github.com/davidepennacchio/c-shell/
