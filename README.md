@@ -17,7 +17,3 @@ typedef struct
   char **system = ["Linux", "MacOS"];
 } Davide;
 ```
-
-## Some Projects
-
-*  -> https://github.com/davidepennacchio//
