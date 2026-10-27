@@ -21,3 +21,4 @@ typedef struct
 ## Some Projects
 
 * the-ads-game -> https://github.com/davidepennacchio/the-ads-game/
+* audio-engine -> https://github.com/davidepennacchio/audio-engine/
