@@ -20,4 +20,4 @@ typedef struct
 
 ## Some Projects
 
-* the-ads-game -> https://github.com/davidepennacchio/the-ads-game/
+*  -> https://github.com/davidepennacchio//
