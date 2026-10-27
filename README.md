@@ -20,4 +20,4 @@ typedef struct
 
 ## Some Projects
 
-*  -> https://github.com/davidepennacchio//
+* game-of-life -> https://github.com/davidepennacchio/game-of-life/
