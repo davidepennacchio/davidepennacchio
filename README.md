@@ -1,10 +1,8 @@
 # Hi there, I'm Davide
 
-Software Engineering Student at Ecole 42 Paris.
+Student at Ecole 42 Paris.
 
-I love music and systems engineering.
-
-<img align="right" src="3.gif" width="250">
+I love cybersecurity.
 
 ### A little more about me ...
 
@@ -13,7 +11,7 @@ typedef struct
 {
   char *pronouns = "he/him";
   char **code = ["Python", "C", "Bash"];
-  char **tools = ["Git", "Github", "Ssh"];
-  char **system = ["Linux", "MacOS"];
+  char **tools = ["Git", "Github"];
+  char **system = ["Linux", "MacOS", "Windows"];
 } Davide;
 ```
